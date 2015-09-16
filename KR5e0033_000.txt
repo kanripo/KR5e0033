@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:07:09.193316
+# -*- mode: mandoku-view -*-
 #+TITLE: 太上妙法本相經
-#+PROPERTY: DZID  DZ1131
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，24—857 三卷 太平部
+#+DATE: 2015-08-29 02:07:10
+#+PROPERTY:  LASTPB <PB KR5e0033_SJB_003-240868c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶<md:KR5e0033_HFL_003-017b>¶¶¶¶¶¶¶¶¶¶¶
+
